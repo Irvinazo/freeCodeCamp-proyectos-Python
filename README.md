@@ -1,2 +1,3 @@
 # Welcome 
-Here I will upload the projects from freeCodeCamp courses about Scientific Computing with Python, Data Visualization with Python and Machine Learning with Python.
+
+We can find multiple projects from freeCodeCamp courses. There is a carpet for each course. Currently in progress with the course of Data Visualization with Python.
